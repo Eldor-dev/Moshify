@@ -1,0 +1,4 @@
+{
+    "json.maxItemsComputed": 10000,
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
